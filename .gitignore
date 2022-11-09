@@ -1,0 +1,4 @@
+base/
+.venv
+.ipynb_checkpoints
+pdf
